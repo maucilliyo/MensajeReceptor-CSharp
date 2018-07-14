@@ -16,3 +16,10 @@ E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\Newtonsoft.
 E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
 E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.dll
 E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Mao\Documents\MensajeReceptor\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Mao\Documents\MensajeReceptor\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Mao\Documents\MensajeReceptor\CapaNegocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mao\Documents\MensajeReceptor\CapaNegocios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mao\Documents\MensajeReceptor\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Mao\Documents\MensajeReceptor\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Mao\Documents\MensajeReceptor\CapaNegocios\obj\Debug\CapaNegocios.pdb

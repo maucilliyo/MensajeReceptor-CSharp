@@ -43,5 +43,19 @@ E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\Mensaje_Receptor_Mao\obj\Debug\Men
 E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.csproj.GenerateResource.Cache
 E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.frmEspere.resources
 C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\Mensaje_Receptor_Mao.exe.config
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\Mensaje_Receptor_Mao.exe
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\Mensaje_Receptor_Mao.pdb
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\CapaNegocios.dll
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\FirmaXadesNet.dll
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\Microsoft.Xades.dll
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\CapaNegocios.pdb
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.csprojResolveAssemblyReference.cache
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.Form1.resources
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.frmEspere.resources
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.Properties.Resources.resources
+C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.csproj.GenerateResource.Cache
 C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.exe
 C:\Users\Mao\Documents\MensajeReceptor\Mensaje_Receptor_Mao\obj\Debug\Mensaje_Receptor_Mao.pdb
