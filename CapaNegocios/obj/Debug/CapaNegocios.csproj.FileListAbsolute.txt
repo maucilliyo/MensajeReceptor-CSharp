@@ -1,0 +1,18 @@
+c:\users\mao\documents\visual studio 2012\Projects\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\CapaNegocios.dll
+c:\users\mao\documents\visual studio 2012\Projects\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\CapaNegocios.pdb
+c:\users\mao\documents\visual studio 2012\Projects\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.dll
+c:\users\mao\documents\visual studio 2012\Projects\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Mao\Desktop\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Mao\Desktop\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Mao\Desktop\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Mao\Desktop\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Mao\Desktop\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Mao\Desktop\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mao\Desktop\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\Newtonsoft.Json.xml
+E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\CapaNegocios.dll
+E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\CapaNegocios.pdb
+E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\Newtonsoft.Json.dll
+E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\bin\Debug\Newtonsoft.Json.xml
+E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.dll
+E:\FactuSys Nueva UI V 2\Mensaje_Receptor_Mao\CapaNegocios\obj\Debug\CapaNegocios.pdb
